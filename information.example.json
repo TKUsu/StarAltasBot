@@ -1,5 +1,6 @@
 {
   "privateKey": "YOURPRIVATEKEY123",
   "autoBuy":  "NFTMINTID123",
-  "autoStake": "boolean"
+  "autoStake": "boolean",
+  "rpcKey": "RPC Key https://www.quicknode.com/"
 }
